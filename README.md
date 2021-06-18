@@ -1,2 +1,2 @@
-# React-Dev-tools
+# React-Props-Practice
 Created with CodeSandbox
